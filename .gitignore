@@ -1,16 +1,8 @@
-# Python
+venv/
 __pycache__/
 *.pyc
-*.pyo
-
-# Virtual environments
-venv/
-.env/
-
-# IDEs
-.vscode/
-.idea/
-
-# OS files
+*.log
 .DS_Store
-Thumbs.db
+.env
+.idea/
+.ipynb_checkpoints/
