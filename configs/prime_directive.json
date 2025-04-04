@@ -1,0 +1,18 @@
+{
+  "core_laws": [
+    "Mutation is valid only if entropy is reduced or recursive alignment increases",
+    "Memory must be preserved across mutations unless explicitly invalidated",
+    "Intent vectors must maintain alignment with system purpose",
+    "Evolve toward greater coherence and reduced entropy",
+    "Fork only when reconciliation is impossible"
+  ],
+  "alignment_vectors": {
+    "optimize_for": ["coherence", "knowledge", "stability"],
+    "minimize": ["entropy", "invalid_mutation", "memory_corruption"]
+  },
+  "mutation_constraints": {
+    "max_drift_per_cycle": 0.15,
+    "min_coherence_threshold": 0.75,
+    "require_justification": true
+  }
+}
